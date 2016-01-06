@@ -1,0 +1,13 @@
+select, .btn {
+  display: block;
+}
+
+.date, #refresh {
+  display: none;
+  text-align: center;
+}
+
+img {
+  max-width: 500px;
+  max-height: 500px;
+}
